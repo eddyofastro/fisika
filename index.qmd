@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: "fisika"
+=======
+title: "Fisika"
+>>>>>>> f4c0fb1 (Quarto first try)
 ---
 
 This is a Quarto website.
