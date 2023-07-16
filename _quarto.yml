@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Fisika SMA"
+  title: "fisika"
   navbar:
     left:
       - href: index.qmd
